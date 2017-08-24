@@ -4,7 +4,7 @@
 	<groupId>com.ki.app</groupId>
 	<artifactId>maven-sample-project</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.1</version>
+	<version>0.0.1</version>
 	<name>Simple Java Application</name>
 	<description>Simple Java Application</description>
   
